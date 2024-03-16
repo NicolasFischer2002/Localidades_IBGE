@@ -1,6 +1,4 @@
-﻿
-using Localidades_IBGE;
-using Localidades_IBGE.Classes;
+﻿using Localidades_IBGE.Classes;
 using Newtonsoft.Json;
 
 try

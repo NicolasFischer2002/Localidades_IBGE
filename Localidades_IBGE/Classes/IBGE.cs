@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Localidades_IBGE
+namespace Localidades_IBGE.Classes
 {
     public class IBGE
     {
@@ -17,7 +17,7 @@ namespace Localidades_IBGE
 
         public IBGE()
         {
-            
+
         }
 
         public static async Task<string> ConsultaLocalidadesCidades(string url)

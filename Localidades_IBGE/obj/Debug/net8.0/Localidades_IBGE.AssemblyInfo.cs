@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Localidades_IBGE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6576b883c7d904f1ec4b6e017eb85613a8cea529")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20545ef38064be7e6c00d1d2d7e4857ceef072bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Localidades_IBGE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Localidades_IBGE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
