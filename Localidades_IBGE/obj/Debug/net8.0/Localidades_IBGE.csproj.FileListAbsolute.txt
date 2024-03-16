@@ -1,0 +1,17 @@
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\bin\Debug\net8.0\Localidades_IBGE.exe
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\bin\Debug\net8.0\Localidades_IBGE.deps.json
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\bin\Debug\net8.0\Localidades_IBGE.runtimeconfig.json
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\bin\Debug\net8.0\Localidades_IBGE.dll
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\bin\Debug\net8.0\Localidades_IBGE.pdb
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\obj\Debug\net8.0\Localidades_IBGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\obj\Debug\net8.0\Localidades_IBGE.AssemblyInfoInputs.cache
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\obj\Debug\net8.0\Localidades_IBGE.AssemblyInfo.cs
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\obj\Debug\net8.0\Localidades_IBGE.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\obj\Debug\net8.0\Localidades_IBGE.dll
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\obj\Debug\net8.0\refint\Localidades_IBGE.dll
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\obj\Debug\net8.0\Localidades_IBGE.pdb
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\obj\Debug\net8.0\Localidades_IBGE.genruntimeconfig.cache
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\obj\Debug\net8.0\ref\Localidades_IBGE.dll
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\obj\Debug\net8.0\Localidades_IBGE.csproj.AssemblyReference.cache
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Micro\Desktop\Localidades_IBGE\Localidades_IBGE\obj\Debug\net8.0\Localida.53308DC0.Up2Date

@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\ibge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|solutionrelative:ibge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|c:\\users\\micro\\desktop\\localidades_ibge\\localidades_ibge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\classes\\uf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|solutionrelative:classes\\uf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\classes\\regiaointermediaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|solutionrelative:classes\\regiaointermediaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\classes\\regiaoimediata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|solutionrelative:classes\\regiaoimediata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\classes\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|solutionrelative:classes\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\classes\\rootobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|solutionrelative:classes\\rootobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\classes\\regiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|solutionrelative:classes\\regiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\classes\\mesorregiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|solutionrelative:classes\\mesorregiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\classes\\microrregiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E6793E-8CF4-4639-B0A4-1C93B1ECBDC3}|Localidades_IBGE.csproj|solutionrelative:classes\\microrregiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:21:57.272Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBGE.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\IBGE.cs",
+              "RelativeDocumentMoniker": "IBGE.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\IBGE.cs",
+              "RelativeToolTip": "IBGE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:42:58.968Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RootObject.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Classes\\RootObject.cs",
+              "RelativeDocumentMoniker": "Classes\\RootObject.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Classes\\RootObject.cs",
+              "RelativeToolTip": "Classes\\RootObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:41:06.276Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cidade.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Classes\\Cidade.cs",
+              "RelativeDocumentMoniker": "Classes\\Cidade.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Classes\\Cidade.cs",
+              "RelativeToolTip": "Classes\\Cidade.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:38:57.603Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegiaoImediata.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Classes\\RegiaoImediata.cs",
+              "RelativeDocumentMoniker": "Classes\\RegiaoImediata.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Classes\\RegiaoImediata.cs",
+              "RelativeToolTip": "Classes\\RegiaoImediata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:37:28.103Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegiaoIntermediaria.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Classes\\RegiaoIntermediaria.cs",
+              "RelativeDocumentMoniker": "Classes\\RegiaoIntermediaria.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Classes\\RegiaoIntermediaria.cs",
+              "RelativeToolTip": "Classes\\RegiaoIntermediaria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:36:23.042Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microrregiao.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Classes\\Microrregiao.cs",
+              "RelativeDocumentMoniker": "Classes\\Microrregiao.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Classes\\Microrregiao.cs",
+              "RelativeToolTip": "Classes\\Microrregiao.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:35:06.93Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mesorregiao.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Classes\\Mesorregiao.cs",
+              "RelativeDocumentMoniker": "Classes\\Mesorregiao.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Classes\\Mesorregiao.cs",
+              "RelativeToolTip": "Classes\\Mesorregiao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:33:55.491Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UF.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Classes\\UF.cs",
+              "RelativeDocumentMoniker": "Classes\\UF.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Classes\\UF.cs",
+              "RelativeToolTip": "Classes\\UF.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:32:13.104Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Regiao.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Classes\\Regiao.cs",
+              "RelativeDocumentMoniker": "Classes\\Regiao.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Classes\\Regiao.cs",
+              "RelativeToolTip": "Classes\\Regiao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:30:36.154Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
