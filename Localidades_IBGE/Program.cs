@@ -62,6 +62,7 @@ try
                     // Faz o processo via leitura de arquivo local
                     string jsonText = File.ReadAllText($"{AppDomain.CurrentDomain.BaseDirectory}Estados-Cidades-IBGE.txt");
 
+                    // Desserializa o JSON e obtém a lista de cidades
                     List<Cidade> cidadesFile = JsonConvert.DeserializeObject<List<Cidade>>(jsonText);
 
                     string[] nomesCidades = cidadesFile.Where(f => f.RegiaoImediata.RegiaoIntermediaria.UF.Sigla == UFescolhido.ToUpper()).Select(f => f.Nome).ToArray();
