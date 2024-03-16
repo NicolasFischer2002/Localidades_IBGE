@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WinWRCjRWV/bbGwcTX2u2b8JcqLHXyzC2lQ3k7JLXqbLkWmH2oNqcBhOj9E/MV89sHcq8/RESDEIt/cTD0n2vQ==",
+  "dgSpecHash": "WrAc2rTjcphIlxZYQksFNMPxd0+ryiXcWP8oYjBvPQaALIVR5ga3AfbbpwzH4KjmLgDV2VvUXoAHaWlzgGo+/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Micro\\Desktop\\Localidades_IBGE\\Localidades_IBGE\\Localidades_IBGE.csproj",
+  "projectFilePath": "C:\\Desenvolvimento\\GitHub\\C#\\Localidades_IBGE\\Localidades_IBGE\\Localidades_IBGE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Micro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

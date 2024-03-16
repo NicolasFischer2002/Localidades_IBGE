@@ -92,6 +92,9 @@ try
         }
     }
     while (opcao != "1" || opcao != "2");
+
+    Console.WriteLine("\nPrecione qualquer tecla para finalizar a aplicação...");
+    Console.ReadLine();
 }
 catch (Exception Erro)
 {
